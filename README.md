@@ -1,10 +1,50 @@
 # Music-Player
-In my Coding Ninja  Career Camp Course. I had a Major project to make Homepage and single playlist page for a Online Music PLayer website like Spotify but onlie Using only HTML and CSS (can latter use JS on it).
 
-Main Homepage of the website is index.html and styling for the this html is done by external css called stylesheet.css and for the Playlist page html is Single Playlist Screen.html and styling css is Single Playlist Screen Style.css and there are two more css files those for to make the pages more responsive and I don't think that you need to touch those and all the media(images) required for these pages are in the "media.zip" you need to extract this file.
+It is  Coding Ninjas Major project assignment. Please do visit the Coding Ninjas website [CodingNinjas ](https://www.codingninjas.com/) for more details.
 
-Preview of First Page;
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+## Overview
+
+It is a simple Music Player application using HTML and CSS.
+
+### Screenshot: - Preview of First Page
+
 <img width="960" alt="Screenshot-1" src="https://user-images.githubusercontent.com/87888969/215768773-a8ff4b60-8758-4f2b-b622-198ef2623459.png">
 
-Preview of Second Page;
+### Screenshot: - Preview of Second Page
+
 <img width="960" alt="Screenshot-2" src="https://user-images.githubusercontent.com/87888969/215768824-343c2b4e-b73f-4650-b56f-a115244162f3.png">
+
+## My process
+
+Music Player application is based on HTML and CSS as Frontend side technology, (can latter use JS on it) to make it functional.  
+
+### Built with
+
+- HTML
+- CSS
+- Bootstrap
+
+### Useful resources
+
+- [FontAwesome](https://fontawesome.com/)
+- [Bootstrap](https://getbootstrap.com/)
+
+## Author
+
+- LinkedIn - [Mihir Wankhade](https://www.linkedin.com/in/mihir-wankhade/)
+
+
+## Acknowledgments
+
+This project is done by me from scratch by refering to the above websites .
